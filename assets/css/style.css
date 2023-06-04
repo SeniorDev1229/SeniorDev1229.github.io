@@ -201,7 +201,7 @@ nav i {
 
 main {
   background: url(../../assets/img/bg.png) repeat;
-  padding-left: 190px;
+  padding-left: 250px;
 }
 
 dl {
@@ -220,7 +220,7 @@ dt {
 }
 
 ul.side-nav {
-  width: 190px;
+  width: 250px;
 }
 
 ul.side-nav li {
